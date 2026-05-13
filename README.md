@@ -31,6 +31,7 @@ Nội dung chia ra cho dễ theo dõi:
 - https://www.youtube.com/watch?v=q6AxUo-xnx4&list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485&index=20 (học sau linux và bash script)
 ### Dòng lệnh linux
 - https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2
+- Google Colab (một phương án tạm thời để có môi trường linux nhanh chóng để thực hành lệnh linux và ngôn ngữ lập trình): https://www.youtube.com/watch?v=O11h2ockwdA&list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW&index=9
 - https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3
 - https://www.youtube.com/watch?v=wBV9j147arU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=7
 - https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8
