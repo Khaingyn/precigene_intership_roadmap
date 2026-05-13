@@ -15,14 +15,20 @@ Các bạn sinh viên cần phải nắm rõ được những kiến thức cơ 
 > **Lưu ý về Python:** Ngoài ra còn có ngôn ngữ lập trình Python, cũng có thể được sử dụng trong nhiều trường hợp để thay thế Bash script hoặc R; Python đặc biệt mạnh trong Machine Learning (Học máy), Deep Learning và AI. Tuy nhiên, Linux + Bash script + R là "kiềng ba chân" quan trọng nhất trong kiến thức cơ bản, nên Python sẽ không được ưu tiên trong lộ trình này vì chưa thực sự cần thiết lúc mới bắt đầu. Sau này khi các bạn đã nắm vững 3 công cụ trên, việc tự học thêm Python sẽ trở nên rất dễ dàng với nguồn tài liệu phong phú trên internet.
 
 ## 1.2. Tài liệu học tập và thực hành
+Các tài liệu sau đây sử dụng từ khoá học MGMA 2024 được thầy Lưu Phcú Lợi tổ chức vào 2024, và các nguồn khác trên mạng
 
 * **Khóa học MGMA 2024 (Online):** Khóa học hướng dẫn về Linux, Bash script và phân tích bộ gen vi khuẩn.
     * **Youtube Playlist:** [Xem tại đây](https://youtube.com/playlist?list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&si=tVECKslizscj9on7)
     * **Tài liệu & Slide (GitHub):** [Truy cập tại đây](https://github.com/UeenHuynh/MGMA_2024)
 
 Nội dung chia ra cho dễ theo dõi:
-### vscode
-- https://www.youtube.com/watch?v=1IU7-67iYbM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=20
+### Github
+- https://www.youtube.com/watch?v=wpIN9kkU7fk&list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485&index=17
+- https://www.youtube.com/watch?v=xfFMCtoNDoU
+- https://www.youtube.com/watch?v=8CmZKWWpCm0&list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485&index=18
+- https://www.youtube.com/watch?v=4FjgUp0zgcM&list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485&index=2 (học sau linux và bash script)
+- https://www.youtube.com/watch?v=N_tabayXkdI&list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485&index=19 (học sau linux và bash script)
+- https://www.youtube.com/watch?v=q6AxUo-xnx4&list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485&index=20 (học sau linux và bash script)
 ### Dòng lệnh linux
 - https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2
 - https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3
@@ -32,6 +38,7 @@ Nội dung chia ra cho dễ theo dõi:
 ### Bash script
 - https://www.youtube.com/watch?v=bIMtUtNmBW4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=9
 - https://www.youtube.com/watch?v=3r83hXh9qL8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=12
+- vscode: https://www.youtube.com/watch?v=1IU7-67iYbM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=20
 ### R
 - https://www.youtube.com/watch?v=5iKr0TWv5xE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=19
 - https://www.youtube.com/watch?v=8GTNqj6YY2o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=25
