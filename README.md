@@ -1,9 +1,46 @@
-# LỘ TRÌNH HỌC TIN SINH
-Lộ trình học tin sinh học cho sinh viên thực tập tại Công ty PrecisionGene
+# LỘ TRÌNH HỌC TIN SINH HỌC
+*Lộ trình học tin sinh học dành cho sinh viên thực tập tại Công ty PrecisionGene*
 
 # 1. KIẾN THỨC CƠ BẢN
-Các bạn sinh viên cần phải nắm rõ được những kiến thức cơ bản nền tảng thì mới có thể đi sâu vào được bất kỳ mảng chuyên môn nào trong tin sinh học (Metagenomics, Genomics, Transcriptomics,.v.v..), bao gồm:
-  - Github: Đây giống như là 1 "mạng xã hội" - nhưng thay vì để đăng hình ảnh, video như facebook, zalo thì ở đây là nơi phổ biến được toàn thế giới đăng lên các công cụ phần mềm mà họ tạo ra, bao gồm cả các công cụ sử dụng trong tin sinh học, ngoài ra còn được dùng để đăng các tài liệu học tập liên quan tới tin sinh học nói riêng cũng như công nghệ thông tin, khoa học máy tính,v.v...
-  - Làm quen với môi trường linux và sử dụng các câu lệnh để thao tác torng môi trường linux.
-  - Bash script: (viết) file chứa tổ hợp các câu lệnh để có thể tái sử dụng trong các trường hợp tương tự trong môi trường linux.
-  - Ngôn ngữ lập trình R: có thể các bạn đã hoặc sẽ được học ở trường các phần mềm cho phân tích thống kê như SPSS, Stata, Minitab; đây là những phần mềm tính phí để có thể sử dụng được 1 cách hợp pháp, và không được ưa chuộng sử dụng trong tin sinh học vì nó ko thể cung cấp trọn vẹn khả năng tái lập phân tích (preproducibility) vì đều là các thao tác phân tích click chuột bằng tay, rất bất tiện khi mô tả lại trong các nghiên cứu. Ngôn ngữ lập trình R giải quyết được những vấn đề này, nó miễn phí, các thao tác phân tích là những dòng lệnh R được biên tập gọn gàng trong các file .R, chỉ cần chạy file .R này là có thể tái lập được các phân tích đã thực hiện một cách dễ dàng và tiện lợi, nó được đông đảo cộng đồng thế giới xây dựng và tạo nên các thư viện R (tạm hiểu là các công cụ) mạnh mẽ, đa dạng (và rất nhiều thư viện được tạo ra để sử dụng trong tin sinh) cho phân tích thống kê và trực quan hoá dữ liệu (vẽ các đồ thị). Ngoài ra còn có ngôn ngữ lập trình python, cũng có thể được sử dụng trong nhiều hợp có thể thay thế bash script, R; ngoài ra được sử dụng mạnh trong machine learning (học máy), deep learning, AI; tuy nhiên linux+bash script+R quan trọng hơn cả trong kiến thức cơ bản, nên python sẽ không được quan tâm trong lộ trình này vì không cần thiết, sau này khi các bạn còn làm tiếp tìn sinh học, và đã nắm vững 3 cái kia, thì cũng sẽ có ngày các bạn tìm đến python và tự học được với nhiều tài liệu, video giảng dạy được chia sẻ nhiều trên mạng.
+Các bạn sinh viên cần phải nắm rõ được những kiến thức cơ bản nền tảng thì mới có thể đi sâu vào được bất kỳ mảng chuyên môn nào trong tin sinh học (Metagenomics, Genomics, Transcriptomics, v.v.), bao gồm:
+
+## 1.1. Các công cụ và ngôn ngữ nền tảng
+
+* **GitHub:** Đây giống như là một "mạng xã hội" – nhưng thay vì để đăng hình ảnh, video như Facebook, Zalo thì ở đây là nơi cộng đồng trên toàn thế giới đăng tải các công cụ phần mềm mà họ tạo ra, bao gồm cả các công cụ sử dụng trong tin sinh học. Ngoài ra, GitHub còn được dùng để đăng các tài liệu học tập liên quan tới tin sinh học nói riêng cũng như công nghệ thông tin, khoa học máy tính nói chung.
+* **Linux và Terminal:** Làm quen với môi trường Linux và sử dụng các câu lệnh (Command Line) để thao tác trực tiếp với hệ thống. Đây là kỹ năng "nhập môn" bắt buộc để vận hành các công cụ tin sinh.
+* **Bash script:** Cách viết file chứa tổ hợp các câu lệnh để có thể tự động hóa quy trình và tái sử dụng mã nguồn trong các trường hợp tương tự trong môi trường Linux.
+* **Ngôn ngữ lập trình R:** Có thể các bạn đã hoặc sẽ được học ở trường các phần mềm phân tích thống kê như SPSS, Stata, Minitab. Tuy nhiên, đây là những phần mềm tính phí để có thể sử dụng được một cách hợp pháp, và quan trọng hơn là chúng không được ưa chuộng trong tin sinh học vì không thể cung cấp trọn vẹn **khả năng tái lập phân tích (Reproducibility)**. Các thao tác phân tích bằng cách "click chuột" thủ công rất bất tiện khi cần mô tả lại quy trình trong các nghiên cứu khoa học.
+    * Ngôn ngữ lập trình R giải quyết được những vấn đề này: nó hoàn toàn miễn phí, các thao tác phân tích là những dòng lệnh R được biên tập gọn gàng trong các file `.R`. Chỉ cần chạy file này là có thể tái lập được các phân tích đã thực hiện một cách dễ dàng và tiện lợi. R được đông đảo cộng đồng thế giới xây dựng và tạo nên các thư viện (tools) mạnh mẽ, đa dạng cho phân tích thống kê và trực quan hóa dữ liệu (vẽ các đồ thị chất lượng cao).
+
+> **Lưu ý về Python:** Ngoài ra còn có ngôn ngữ lập trình Python, cũng có thể được sử dụng trong nhiều trường hợp để thay thế Bash script hoặc R; Python đặc biệt mạnh trong Machine Learning (Học máy), Deep Learning và AI. Tuy nhiên, Linux + Bash script + R là "kiềng ba chân" quan trọng nhất trong kiến thức cơ bản, nên Python sẽ không được ưu tiên trong lộ trình này vì chưa thực sự cần thiết lúc mới bắt đầu. Sau này khi các bạn đã nắm vững 3 công cụ trên, việc tự học thêm Python sẽ trở nên rất dễ dàng với nguồn tài liệu phong phú trên internet.
+
+## 1.2. Tài liệu học tập và thực hành
+
+* **Khóa học MGMA 2024 (Online):** Khóa học hướng dẫn về Linux, Bash script và phân tích bộ gen vi khuẩn.
+    * **Youtube Playlist:** [Xem tại đây](https://youtube.com/playlist?list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&si=tVECKslizscj9on7)
+    * **Tài liệu & Slide (GitHub):** [Truy cập tại đây](https://github.com/UeenHuynh/MGMA_2024)
+
+Nội dung chia ra cho dễ theo dõi:
+### vscode
+- https://www.youtube.com/watch?v=1IU7-67iYbM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=20
+### Dòng lệnh linux
+- https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2
+- https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3
+- https://www.youtube.com/watch?v=wBV9j147arU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=7
+- https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8
+- https://www.youtube.com/watch?v=114oATBzX-I&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=15
+### Bash script
+- https://www.youtube.com/watch?v=bIMtUtNmBW4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=9
+- https://www.youtube.com/watch?v=3r83hXh9qL8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=12
+### R
+- https://www.youtube.com/watch?v=5iKr0TWv5xE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=19
+- https://www.youtube.com/watch?v=8GTNqj6YY2o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=25
+- https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=39
+- https://www.youtube.com/watch?v=tig4mchm-bw&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=40
+- https://www.youtube.com/watch?v=zcc4s65BKP4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=41
+- https://www.youtube.com/watch?v=1sMDR2NlQtw&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=42
+- https://www.youtube.com/watch?v=DZOkXKBbfik&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=65
+- https://www.youtube.com/watch?v=K8W1XQr0F8E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=66
+
+
+
