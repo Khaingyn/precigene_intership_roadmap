@@ -15,7 +15,7 @@ Các bạn sinh viên cần phải nắm rõ được những kiến thức cơ 
 > **Lưu ý về Python:** Ngoài ra còn có ngôn ngữ lập trình Python, cũng có thể được sử dụng trong nhiều trường hợp để thay thế Bash script hoặc R; Python đặc biệt mạnh trong Machine Learning (Học máy), Deep Learning và AI. Tuy nhiên, Linux + Bash script + R là "kiềng ba chân" quan trọng nhất trong kiến thức cơ bản, nên Python sẽ không được ưu tiên trong lộ trình này vì chưa thực sự cần thiết lúc mới bắt đầu. Sau này khi các bạn đã nắm vững 3 công cụ trên, việc tự học thêm Python sẽ trở nên rất dễ dàng với nguồn tài liệu phong phú trên internet.
 
 ## 1.2. Tài liệu học tập và thực hành
-Các tài liệu sau đây sử dụng từ khoá học MGMA 2024 được thầy Lưu Phcú Lợi tổ chức vào 2024, và các nguồn khác trên mạng
+Các tài liệu sau đây sử dụng từ khoá học MGMA 2024 được thầy Lưu Phúc Lợi tổ chức vào 2024, và các nguồn khác trên mạng
 
 * **Khóa học MGMA 2024 (Online):** Khóa học hướng dẫn về Linux, Bash script và phân tích bộ gen vi khuẩn.
     * **Youtube Playlist:** [Xem tại đây](https://youtube.com/playlist?list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&si=tVECKslizscj9on7)
