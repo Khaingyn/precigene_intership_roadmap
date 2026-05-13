@@ -49,5 +49,5 @@ Nội dung chia ra cho dễ theo dõi:
 - https://www.youtube.com/watch?v=DZOkXKBbfik&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=65
 - https://www.youtube.com/watch?v=K8W1XQr0F8E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=66
 
-
+# 2. Phân tích toàn bộ bộ gene (whole genome sequencing - WGS)
 
