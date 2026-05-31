@@ -41,8 +41,8 @@ Nội dung chia ra cho dễ theo dõi:
 - https://www.youtube.com/watch?v=3r83hXh9qL8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=12
 - vscode: https://www.youtube.com/watch?v=1IU7-67iYbM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=20
 ### R
-- (Hướng dẫn cài đặt R và R Studio | Window | TS.BS.Vũ Duy Kiên)[https://www.youtube.com/watch?v=ngpB_00Jiyk]
-- (Hướng dẫn cài R và R Studio cho máy MAC | TS.BS.Vũ Duy Kiên)[https://www.youtube.com/watch?v=2Xb74YKjPbA]
+- [Hướng dẫn cài đặt R và R Studio | Window | TS.BS.Vũ Duy Kiên](https://www.youtube.com/watch?v=ngpB_00Jiyk)
+- [Hướng dẫn cài R và R Studio cho máy MAC | TS.BS.Vũ Duy Kiên](https://www.youtube.com/watch?v=2Xb74YKjPbA)
 - https://www.youtube.com/watch?v=5iKr0TWv5xE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=19
 - https://www.youtube.com/watch?v=8GTNqj6YY2o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=25
 - https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=39
