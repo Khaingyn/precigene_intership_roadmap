@@ -49,6 +49,11 @@ Nội dung chia ra cho dễ theo dõi:
 - https://www.youtube.com/watch?v=1sMDR2NlQtw&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=42
 - https://www.youtube.com/watch?v=DZOkXKBbfik&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=65
 - https://www.youtube.com/watch?v=K8W1XQr0F8E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=66
-
+### R web-book:
+- https://r4ds.hadley.nz/ (tiếng Việt: https://vn.r4ds.hadley.nz/)
+- https://r-graphics.org/index.html
+- https://ggplot2-book.org/
+- https://rkabacoff.github.io/datavis/
+- https://clauswilke.com/dataviz/
 # 2. Phân tích toàn bộ bộ gene (whole genome sequencing - WGS)
 
