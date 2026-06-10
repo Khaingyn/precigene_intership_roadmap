@@ -64,7 +64,7 @@ Nội dung chia ra cho dễ theo dõi:
  
 ### Giải trình tự DNA
 
-Công nghệ giải trình tự thế hệ tiếp theo (Next-Generation Sequencing: NGS) hay còn gọi short read seuqneicng; và thế hệ 3 hay còn gọi là long read sequencing. Xem thêm để hiểu được, dữ liệu gene mà chúng ta phân tích tin sinh, từ đâu mà có được.
+Công nghệ giải trình tự thế hệ tiếp theo (Next-Generation Sequencing: NGS) hay còn gọi short read sequencing; và thế hệ 3 hay còn gọi là long read sequencing. Xem thêm để hiểu được, dữ liệu gene mà chúng ta phân tích tin sinh, từ đâu mà có được.
 
 **Short read**
 - Sanger Sequencing Method: https://www.youtube.com/watch?v=XtblMQ-Al0g&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=29
