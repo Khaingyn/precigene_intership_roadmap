@@ -59,3 +59,25 @@ Nội dung chia ra cho dễ theo dõi:
 - https://clauswilke.com/dataviz/
 # 2. Phân tích toàn bộ bộ gene (whole genome sequencing - WGS)
 
+## Giải trình tự DNA
+
+Công nghệ giải trình tự thế hệ tiếp theo (Next-Generation Sequencing: NGS) hay còn gọi short read seuqneicng; và thế hệ 3 hay còn gọi là long read sequencing. Xem thêm để hiểu được, dữ liệu gene mà chúng ta phân tích tin sinh, từ đâu mà có được.
+
+**Short read**
+- Sanger Sequencing Method: https://www.youtube.com/watch?v=XtblMQ-Al0g&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=29
+- Introduction of next generation sequencing: https://www.youtube.com/watch?v=hhOH7TG9WPc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=30
+- Pacbio short read platform: https://www.youtube.com/watch?v=tFmNO5rVoeM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=31
+- GeneMind platform: https://www.youtube.com/watch?v=2SLemogG8v4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=32
+- Illumina platform: https://www.youtube.com/watch?v=-Kw5ov-orzU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=33
+- MGI platform: https://www.youtube.com/watch?v=4_h4wNIyfk0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=34
+- Ion Torrent platform: https://www.youtube.com/watch?v=qso3tdp0IPo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=35
+- Elements Biosciences Platform (AVITDITY): https://www.youtube.com/watch?v=pSwWofrRu3Y&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=36
+
+**Long read**
+- PacBio: https://www.youtube.com/watch?v=mXcDYKnIDE8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=149
+- Oxford Nanopore Technologies (ONT): https://www.youtube.com/watch?v=mNS0E6riKZY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=157
+
+## overview WGS
+- Introduction of Whole genome sequencing analysis for Microbes: https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=44
+- Microbial WGS upstream analysis: https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45
+
