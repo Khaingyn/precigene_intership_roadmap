@@ -80,13 +80,18 @@ Công nghệ giải trình tự thế hệ tiếp theo (Next-Generation Sequenci
 - PacBio: https://www.youtube.com/watch?v=mXcDYKnIDE8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=149
 - Oxford Nanopore Technologies (ONT): https://www.youtube.com/watch?v=mNS0E6riKZY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=157
 
-## overview WGS
-- Introduction of Whole genome sequencing analysis for Microbes: https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=44
-- Microbial WGS upstream analysis: https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45
-
 ## 2. HƯỚNG CHUYÊN MÔN
 
 ## 2.1 HƯỚNG: PHÂN TÍCH TOÀN BỘ BỘ GENE (whole genome sequencing - WGS ANALYSIS) VI SINH VẬT
 
-## 2.1 HƯỚNG: METAGENOMICS 
+## Tổng quan
+- Introduction of Whole genome sequencing analysis for Microbes: https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=44
+- Microbial WGS upstream analysis: https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45
+
+##  Thêm
+- Bacterial gene and Genome Annotation: https://www.youtube.com/watch?v=u6-hnKTHms8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38
+- Denovo assembly for WGS of Microbes: https://www.youtube.com/watch?v=4uF5Nd07-N0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=50
+- Annotation of WGS and Pathway Analysis: https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51
+
+## 2.2 HƯỚNG: METAGENOMICS 
 
