@@ -1,7 +1,7 @@
 # LỘ TRÌNH HỌC TIN SINH HỌC
 *Lộ trình học tin sinh học dành cho sinh viên thực tập tại Công ty PrecisionGene*
 
-# 1. KIẾN THỨC CƠ BẢN
+# PHẦN CƠ BẢN
 Các bạn sinh viên cần phải nắm rõ được những kiến thức cơ bản nền tảng thì mới có thể đi sâu vào được bất kỳ mảng chuyên môn nào trong tin sinh học (Metagenomics, Genomics, Transcriptomics, v.v.), bao gồm:
 
 ## 1.1. Các công cụ và ngôn ngữ nền tảng
@@ -57,9 +57,12 @@ Nội dung chia ra cho dễ theo dõi:
 - https://ggplot2-book.org/
 - https://rkabacoff.github.io/datavis/
 - https://clauswilke.com/dataviz/
-# 2. Phân tích toàn bộ bộ gene (whole genome sequencing - WGS)
 
-## Giải trình tự DNA
+# PHẦN CHUYÊN MÔN: PHÂN TÍCH TIN SINH
+
+## 1. KIẾN THỨC CHUNG
+ 
+### Giải trình tự DNA
 
 Công nghệ giải trình tự thế hệ tiếp theo (Next-Generation Sequencing: NGS) hay còn gọi short read seuqneicng; và thế hệ 3 hay còn gọi là long read sequencing. Xem thêm để hiểu được, dữ liệu gene mà chúng ta phân tích tin sinh, từ đâu mà có được.
 
@@ -80,4 +83,10 @@ Công nghệ giải trình tự thế hệ tiếp theo (Next-Generation Sequenci
 ## overview WGS
 - Introduction of Whole genome sequencing analysis for Microbes: https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=44
 - Microbial WGS upstream analysis: https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45
+
+## 2. HƯỚNG CHUYÊN MÔN
+
+## 2.1 HƯỚNG: PHÂN TÍCH TOÀN BỘ BỘ GENE (whole genome sequencing - WGS ANALYSIS) VI SINH VẬT
+
+## 2.1 HƯỚNG: METAGENOMICS 
 
