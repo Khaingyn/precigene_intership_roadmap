@@ -94,10 +94,15 @@ Công nghệ giải trình tự thế hệ tiếp theo (Next-Generation Sequenci
 - Denovo assembly for WGS of Microbes: https://www.youtube.com/watch?v=4uF5Nd07-N0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=50
 - Annotation of WGS and Pathway Analysis: https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51
 
-## Bước chính (hãy dùng AI để hỗ trợ cách sử dụng tool)
-- Tải raw data từ bài báo nghiên cứu - dựa trên mã accession number: tool sra-tools https://anaconda.org/channels/bioconda/packages/sra-tools/overview
-- Kiểm tra chất lượng raw data (dữ liệu read có được từ máy giải trình tự): 
+## Bước chính (Cách dùng tool: dùng --help + AI; Đọc kết quả của tool: AI)
+1) Tải raw data từ bài báo nghiên cứu - dựa trên mã accession number: tool 'sra-tools' https://anaconda.org/channels/bioconda/packages/sra-tools/overview
 
+2) Kiểm tra chất lượng raw data (dữ liệu read có được từ máy giải trình tự): 'fastqc' https://anaconda.org/channels/bioconda/packages/fastqc/overview, 'multiqc' https://anaconda.org/channels/bioconda/packages/multiqc/overview. Thêm clip cho bước 2: https://www.youtube.com/watch?v=-mOIRF9OEXw&list=PL1n-zH30ES2PHUmeDnyqwZNfG6rvvYKUa
+
+3) Trimming read (loại bỏ read chất lượng thấp): 'fastp'
+4) Remove human read (loại bỏ trình tự DNA người): 'bwa'
+5) Denovo assembly (lắp ráp bộ gene vi sinh): 'spades'
+6) Genome annotation (chú thích bộ gene): 
 
 ## 2.2 HƯỚNG: METAGENOMICS 
 
