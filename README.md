@@ -84,7 +84,8 @@ Công nghệ giải trình tự thế hệ tiếp theo (Next-Generation Sequenci
 
 ## 2.1 HƯỚNG: PHÂN TÍCH TOÀN BỘ BỘ GENE (whole genome sequencing - WGS ANALYSIS) VI SINH VẬT
 
-## Tổng quan
+## Lý thuyết:
+1) Tổng quan
 - Introduction of Whole genome sequencing analysis for Microbes: https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=44
 - Microbial WGS upstream analysis: https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45
 
@@ -92,6 +93,11 @@ Công nghệ giải trình tự thế hệ tiếp theo (Next-Generation Sequenci
 - Bacterial gene and Genome Annotation: https://www.youtube.com/watch?v=u6-hnKTHms8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38
 - Denovo assembly for WGS of Microbes: https://www.youtube.com/watch?v=4uF5Nd07-N0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=50
 - Annotation of WGS and Pathway Analysis: https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51
+
+## Bước chính (hãy dùng AI để hỗ trợ cách sử dụng tool)
+- Tải raw data từ bài báo nghiên cứu - dựa trên mã accession number: tool sra-tools https://anaconda.org/channels/bioconda/packages/sra-tools/overview
+- Kiểm tra chất lượng raw data (dữ liệu read có được từ máy giải trình tự): 
+
 
 ## 2.2 HƯỚNG: METAGENOMICS 
 
